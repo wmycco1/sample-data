@@ -2,6 +2,7 @@ ScandiPWA_SampleData
 ===
 
 > **Note**: This module is WIP!
+1.2.0 - 2020-01-22
 
 1.0.0 - 2020-01-22
 

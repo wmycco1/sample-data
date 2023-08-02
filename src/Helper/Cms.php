@@ -3,9 +3,9 @@
  * ScandiPWA_SampleData
  *
  * @category    Scandiweb
- * @package     ScandiPWA_SampleData
- * @author      Vadims Petrovs <info@scandiweb.com>
- * @copyright   Copyright (c) 2020 Scandiweb, Ltd (https://scandiweb.com)
+ * @package     wmycco1_SampleData
+ * @author      Arie Rym <ok@kt7.online>
+ * @copyright   Copyright (c) 2020 Scandiweb, Ltd (https://kt7.online)
  */
 
 namespace ScandiPWA\SampleData\Helper;
